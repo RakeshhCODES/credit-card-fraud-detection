@@ -1,0 +1,30 @@
+
+# Python virtual environments
+ml-env/
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw machine learning datasets
+*.csv
+*.parquet
+*.zip
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# VS Code local settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
