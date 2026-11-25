@@ -28,3 +28,6 @@ __pycache__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Local notebook backups
+backups/
